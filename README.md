@@ -1,4 +1,4 @@
-# CryptDrop
+# SecretPetals
 
 A secure, end-to-end encrypted message sharing tool that prioritizes privacy. Share sensitive information with confidence through password-protected, self-destructing messages.
 
