@@ -100,7 +100,7 @@ export default function Home() {
           <Link href="/send" className="w-full sm:w-auto">
             <Button
               size="lg"
-              className="w-full sm:w-auto bg-gradient-to-r from-amber-300 to-amber-500 hover:from-amber-300 hover:to-amber-600 text-black font-semibold px-6 sm:px-8 py-3 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
+              className="w-full sm:w-auto bg-gradient-to-r from-amber-300 to-amber-500 hover:from-amber-300 hover:to-amber-600 text-black font-semibold px-6 sm:px-8 py-3 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 cursor-pointer"
             >
               Send a Secret
             </Button>
